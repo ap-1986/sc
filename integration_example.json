@@ -1,0 +1,40 @@
+{
+    .
+    ..
+    ....
+    ...
+    ..
+    .
+    "require": {
+    .
+    ..
+    ....
+    ...
+    ..
+    .
+        "qmi-libs/stardust-connect-client" : "1.0.1"
+    .
+    ..
+    ....
+    ...
+    ..
+    .
+    },
+    .
+    ..
+    ....
+    ...
+    ..
+    .
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/ap-1986/sc.git"
+    }],
+    .
+    ..
+    ....
+    ...
+    ..
+    .
+    }
+}
